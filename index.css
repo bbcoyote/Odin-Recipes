@@ -1,0 +1,28 @@
+* {
+  background-color: #12ede2;
+}
+
+.title {
+  text-align: center;
+  text-decoration: underline;
+  color: #ed121d;
+}
+
+a {
+  text-decoration: none;
+  color: #7512ed;
+}
+
+.list {
+  text-align: center;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.lasagna {
+  padding-bottom: 10px;
+}
+
+.meatball {
+  padding-bottom: 10px;
+}
